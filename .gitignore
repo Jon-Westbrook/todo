@@ -1,3 +1,5 @@
 node_modules/
 *.jsonl
+todo-auth.json
+data/
 .env*
